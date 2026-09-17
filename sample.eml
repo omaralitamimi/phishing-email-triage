@@ -1,0 +1,8 @@
+From: Security Team <notice@example.test>
+Reply-To: helpdesk@reply.example.test
+To: analyst@example.test
+Subject: Synthetic email for offline triage
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+This is safe sample data. Review https://portal.example.test/account in an isolated lab.
